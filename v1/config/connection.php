@@ -2,10 +2,10 @@
 
 class Connection {
     /* Especificando credenciales de base de datos */
-    private $host = "localhost";
-    private $db_name = "api_test";
-    private $username = "root";
-    private $password  = "";
+    private $host = "b9nngunwpnjy1lfhpmji-mysql.services.clever-cloud.com";
+    private $db_name = "b9nngunwpnjy1lfhpmji";
+    private $username = "uh6piym7rcbrle2u";
+    private $password  = "IATIIBP9jmcVfUNwIby6";
     public $conn;
 
     // Obteniendo la conexion a la base de datos
